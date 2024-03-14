@@ -5,3 +5,4 @@ Day 33 - Application Programming Interfaces
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (13/03/2024); update tomorrow.
+  Finished practice (14/03/2024); updated.
